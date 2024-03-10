@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: Roboto, sans-serif;
+  }
+  
+.A, .footer {
+  background: #1F2937;
+  
+  }
+  
+.A {
+  flex-direction: column;
+  height: 550px;
+  width: 1440px; 
+  }
+  
+.A1 {
+  display: flex;
+  justify-content: space-between;
+  }
+  
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #F9FAF8;
+  padding-top: 15px;
+  margin-left: 210px;
+  }
+  
+ul {
+  color: #E5E7EB;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 210px;
+  }
+  
+a {
+  text-decoration: none;
+  color: #E5E7EB;
+  font-size: 18px;
+  padding: 10px;
+  font-family: Roboto, sans-serif;
+  }
+  
+.A2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 210px;
+  margin-top: 50px;
+  }
+  
+.A2-1{
+  max-width: 440px;
+  
+  }
+
+img {
+  display: flex;
+  height: 350px;
+  width: 350px;
+  margin-right: 210px;
+  
+  }
+  
+.header {
+  font-size: 48px;
+  font-weight: 900;
+  color: #F9FAF8;
+  }
+  
+.text {
+  font-size: 18px;
+  color: #E5E7EB;
+  }
+  
+button {
+  background: #3882F6;
+  color: white;
+  font-size: 18px;
+  border-radius: 8px;
+  font-weight: bold;
+  margin-top: 10px;
+  width: 120px;
+  height: 40px;
+  }
+  
+.B{
+  height: 500px;
+  width: 1440px;
+  display: flex;
+  flex-direction: column;
+  }  
+  
+
+  
+.header2 {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1F2937;
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  padding: 30px;
+  }
+  
+.images1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: left;
+  width: 1440px;
+  }
+
+figure {
+  display: flex;
+  justify-content: center;
+  }
+  
+.C {
+  background: #E5E7EB;
+  width: 1440px;
+  height: 420px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  }
+  
+.quote { 
+  font-style: italic;
+  font-weight: 100;
+  font-size: 36px;
+  color: #1F2937;
+  display: flex;
+  flex-wrap: wrap;
+  width: 600px;
+  height: 300px;
+  margin-bottom: 0;
+  
+  }
+
+.author {
+  font-size: 28px;
+  color: #1F2937;
+  font-weight: bold;
+  text-align: right;
+  }
+  
+.D {
+  height: 350px;
+  width: 1440px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+
+.action {
+  background: #3882F6;
+  margin: 16px;
+  padding: 16px;
+  border-radius: 8px;
+  height: 130px;
+  width: 1000px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  }
+  
+.call {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  }
+  
+.call2 {
+  color: white;
+  font-size: 18px;
+  }
+  
+.footer {
+  height: 90px;
+  width: 1440px;
+  font-size: 20px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
